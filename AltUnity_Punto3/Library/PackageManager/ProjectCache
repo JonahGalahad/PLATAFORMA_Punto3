@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638669648171323848
-    m_Hash: 2875195733
+      ticks: 638669704456772261
+    m_Hash: 1903141321
   m_LockFileStatus:
     m_FilePath: D:/JONATAN/PLATAFORMA-TP4-punto3/PLATAFORMA_Punto3/AltUnity_Punto3/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638669596724803013
-    m_Hash: 1085927662
+      ticks: 638669704456772261
+    m_Hash: 3215039708
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:

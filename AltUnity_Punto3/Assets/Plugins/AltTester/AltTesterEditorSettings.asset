@@ -18,7 +18,7 @@ MonoBehaviour:
   XcrunPath: /usr/bin/xcrun
   MyTests:
   - _selected: 1
-    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/AltUnity_Punto3/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll
+    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/PLATAFORMA_Punto3/AltUnity_Punto3/Library/ScriptAssemblies/Unity.TestTools.CodeCoverage.Editor.dll
     _testAssembly: Unity.TestTools.CodeCoverage.Editor
     _status: 0
     _isSuite: 1
@@ -32,7 +32,7 @@ MonoBehaviour:
     path: 
     _testSelectedCount: 0
   - _selected: 1
-    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/AltUnity_Punto3/Library/ScriptAssemblies/AltTester.AltTesterUnitySDK.Editor.dll
+    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/PLATAFORMA_Punto3/AltUnity_Punto3/Library/ScriptAssemblies/AltTester.AltTesterUnitySDK.Editor.dll
     _testAssembly: AltTester.AltTesterUnitySDK.Editor
     _status: 0
     _isSuite: 1
@@ -46,7 +46,7 @@ MonoBehaviour:
     path: 
     _testSelectedCount: 0
   - _selected: 1
-    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/AltUnity_Punto3/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
+    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/PLATAFORMA_Punto3/AltUnity_Punto3/Library/ScriptAssemblies/UnityEngine.TestRunner.dll
     _testAssembly: UnityEngine.TestRunner
     _status: 0
     _isSuite: 1
@@ -60,7 +60,7 @@ MonoBehaviour:
     path: 
     _testSelectedCount: 0
   - _selected: 1
-    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/AltUnity_Punto3/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
+    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/PLATAFORMA_Punto3/AltUnity_Punto3/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll
     _testAssembly: Unity.VisualStudio.Editor
     _status: 0
     _isSuite: 1
@@ -74,7 +74,7 @@ MonoBehaviour:
     path: 
     _testSelectedCount: 0
   - _selected: 1
-    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/AltUnity_Punto3/Library/ScriptAssemblies/Unity.Rider.Editor.dll
+    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/PLATAFORMA_Punto3/AltUnity_Punto3/Library/ScriptAssemblies/Unity.Rider.Editor.dll
     _testAssembly: Unity.Rider.Editor
     _status: 0
     _isSuite: 1
@@ -88,7 +88,7 @@ MonoBehaviour:
     path: 
     _testSelectedCount: 0
   - _selected: 1
-    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/AltUnity_Punto3/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
+    _testName: D:/JONATAN/PLATAFORMA-TP4-punto3/PLATAFORMA_Punto3/AltUnity_Punto3/Library/ScriptAssemblies/UnityEditor.TestRunner.dll
     _testAssembly: UnityEditor.TestRunner
     _status: 0
     _isSuite: 1
